@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: js-advocacia-site
+    env: static
+    buildCommand: ""
+    staticPublishPath: ./public
